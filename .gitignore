@@ -1,0 +1,14 @@
+# Java class files
+*.class
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Intellij project files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Screenshotted images
+images/
